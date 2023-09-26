@@ -1,0 +1,28 @@
+@import "../../../Styles/utils//mixins";
+
+.navBar {
+  @include flex-end;
+  text-transform: uppercase;
+
+  @media screen and (min-width: 769px) {
+    text-transform: none;
+  }
+
+  &_link-home,
+  &_link-about {
+    @include font-right(12px);
+    color: #ff6060;
+    text-decoration: none;
+    padding-left: 0.8rem;
+
+    @media screen and (min-width: 769px) {
+      @include font-right(24px);
+      padding-left: 3.5rem;
+    }
+
+    &:hover,
+    &:focus {
+      text-decoration-line: underline;
+    }
+  }
+}
