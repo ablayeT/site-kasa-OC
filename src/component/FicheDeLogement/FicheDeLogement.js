@@ -8,6 +8,8 @@ import Collapse from "../Collapse";
 import Rate from "./Rate";
 import Tag from "./Tag";
 import "./Rate/style/_Rate.scss";
+import "./Host/style/_Host.scss";
+import "./Tag/style/_Tag.scss";
 
 function FicheDeLogement() {
   const params = useParams();
