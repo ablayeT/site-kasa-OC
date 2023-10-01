@@ -2,7 +2,7 @@
 @import "../../../Styles/utils/mixins";
 
 .collapse {
-  width: 100%;
+  width: 100vw;
   margin: 20px 0;
 
   @media screen and (min-width: $breakpoint-desktop) {
@@ -48,7 +48,7 @@
       @include font(12px, 400);
 
       @media screen and (min-width: $breakpoint-desktop) {
-        @include font(24px, 400);
+        @include font(22px, 400);
       }
     }
   }
