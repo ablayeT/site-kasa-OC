@@ -26,7 +26,7 @@ function FicheDeLogement() {
         const chosen = response.data.find(({ id }) => id === params.id);
         console.log("Chosen:", chosen);
         response.data.map(() => {
-          setChoosenFlat(chosen);
+          return setChoosenFlat(chosen);
         });
 
         if (chosen === undefined) {
@@ -37,7 +37,7 @@ function FicheDeLogement() {
       }
     };
     fetchFlatData();
-  }, []); // tableau de dependance vide : pour lancer qu'une seule fois.
+  }, [navigate, params.id]); // tableau de dependance vide : pour lancer qu'une seule fois.
   const slidesPictures = chosenFlat && chosenFlat.pictures;
   console.log("slidePicture : ", slidesPictures);
   const tags = chosenFlat && chosenFlat.tags;

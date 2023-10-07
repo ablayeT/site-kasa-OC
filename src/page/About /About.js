@@ -11,4 +11,3 @@ function About() {
 
 export default About;
 
-// style={{ minHeight : '100vh' }}
