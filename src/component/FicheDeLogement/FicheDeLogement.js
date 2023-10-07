@@ -21,7 +21,7 @@ function FicheDeLogement() {
   useEffect(() => {
     const fetchFlatData = async () => {
       try {
-        const response = await axios.get("/dataList.json");
+        const response = await axios.get("https://votre-nom-utilisateur.github.io/site-kasa-OC/dataList.json");
         // console.log("Response:", response);
         const chosen = response.data.find(({ id }) => id === params.id);
         console.log("Chosen:", chosen);

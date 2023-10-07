@@ -10,7 +10,7 @@ function Home() {
 
   useEffect(() => {
     axios
-      .get("/dataList.json")
+      .get("https://votre-nom-utilisateur.github.io/site-kasa-OC/dataList.json")
       .then((res) => setData(res.data))
       .catch((error) => {
         console.error("Erreur lors de la récupération des données :", error);
