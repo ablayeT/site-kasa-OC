@@ -1,9 +1,9 @@
 import React from "react";
 import AboutContent from "../../component/AboutContent";
-
+import '../../component/AboutContent/style/_AboutContent.scss'
 function About() {
   return (
-    <div>
+    <div className="aboutContaner">
       <AboutContent />
     </div>
   );

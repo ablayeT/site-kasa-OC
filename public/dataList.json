@@ -18,7 +18,7 @@
     "rating": "5",
     "location": "Ile de France - Paris 17e",
     "equipments": [
-      "Ã‰quipements de base",
+      "Equipements de base",
       "Micro-Ondes",
       "Douche italienne",
       "Frigo",
@@ -51,9 +51,9 @@
       "Machine Ã  laver",
       "Wi-fi",
       "Cuisine Ã©quipÃ©e",
-      "TÃ©lÃ©vision"
+      "Télévision"
     ],
-    "tags": ["Canal Saint Martin", "RÃ©publique", "Appartement"]
+    "tags": ["Canal Saint Martin", "Rpublique", "Appartement"]
   },
   {
     "id": "46d188c5",
@@ -72,12 +72,7 @@
     },
     "rating": "3",
     "location": "Ile de France - Paris 20e",
-    "equipments": [
-      "Wi-fi",
-      "Cuisine Ã©quipÃ©e",
-      "TÃ©lÃ©vision",
-      "SÃ¨che Cheveux"
-    ],
+    "equipments": ["Wi-fi", "Cuisine équipée", "Télévision", "Sêche Cheveux"],
     "tags": ["Buttes Chaumont", "LaumiÃ¨re", "Studio"]
   },
   {
@@ -100,9 +95,9 @@
     "equipments": [
       "Micro-Ondes",
       "Wi-fi",
-      "Chambre SÃ©parÃ©e",
+      "Chambre Séparée",
       "Climatisation",
-      "TÃ©lÃ©vision"
+      "Télévision"
     ],
     "tags": ["Parmentier", "Marais", "Parc", "Night Life"]
   },
@@ -126,10 +121,10 @@
     "rating": "5",
     "location": "Ile de France - Paris 10e",
     "equipments": [
-      "Frigo AmÃ©ricain",
-      "SÃ¨che Cheveux",
+      "Frigo Américain",
+      "Sêche Cheveux",
       "Wi-fi",
-      "Chambre SÃ©parÃ©e",
+      "Chambre Séparée",
       "Parking"
     ],
     "tags": ["Goncourt", "Proche commerces"]
@@ -152,12 +147,12 @@
     },
     "rating": "5",
     "location": "Ile de France - Paris 18e",
-    "equipments": ["Chambre SÃ©parÃ©e", "Parking"],
+    "equipments": ["Chambre Séparée", "Parking"],
     "tags": ["Montmartre", "Culture", "Charme"]
   },
   {
     "id": "b4c67936",
-    "title": "Cheap - Studio 18Ã¨me",
+    "title": "Cheap - Studio 18ême",
     "cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-6-1.jpg",
     "pictures": [
       "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-6-1.jpg",
@@ -165,7 +160,7 @@
       "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-6-3.jpg",
       "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-6-4.jpg"
     ],
-    "description": "Ce Studio entiÃ¨rement fonctionnel sera votre parfait pied Ã  terre pour toutes vos excursions parisiennes. IdÃ©alement situÃ© prÃ¨s des lignes 2 et 4, vous accÃ©derez trÃ¨s rapidement Ã  tous les points touristiques de Paris.",
+    "description": "Ce Studio entièrement fonctionnel sera votre parfait pied Ã  terre pour toutes vos excursions parisiennes. IdÃ©alement situé près des lignes 2 et 4, vous accÃ©derez trÃ¨s rapidement Ã  tous les points touristiques de Paris.",
     "host": {
       "name": "Hugo Perrier",
       "picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-4.jpg"
@@ -176,11 +171,11 @@
       "Salle de bains",
       "Frigo",
       "Wi-fi",
-      "SÃ¨che Cheveux",
+      "Sêche Cheveux",
       "Bureau",
       "Parking"
     ],
-    "tags": ["Transports", "Cheap", "18Ã¨me"]
+    "tags": ["Transports", "Cheap", "18me"]
   },
   {
     "id": "bc6f7112",
@@ -196,14 +191,14 @@
     ],
     "description": "Ce superbe appartement vous surprendra par son charme. EntiÃ¨rement refait Ã  neuf, il est Ã©quipÃ© avec goÃ»t. La taille des piÃ¨ces vous fera douter que vous Ãªtes Ã  Paris. Mais il vous suffit de sortir pour voir que vous Ãªtes au coeur des plus belles attractions de Paris : le Louvre, la Tour Eiffel, le Grand Palais sont Ã  deux pas. Ã€ vous de venir dÃ©couvrir Paris !",
     "host": {
-      "name": "SÃ©bastien Fournier",
+      "name": "Sébastien Fournier",
       "picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-5.jpg"
     },
     "rating": "5",
     "location": "Ile de France - Paris 6e",
     "equipments": [
       "Wi-fi",
-      "SÃ¨che Cheveux",
+      "Séche Cheveux",
       "Machine Ã  laver",
       "Parking",
       "Lit King Size",
@@ -222,7 +217,7 @@
       "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-8-4.jpg",
       "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-8-5.jpg"
     ],
-    "description": "Paris vous tend les bras ! En famille ou entre amis, venez dÃ©couvrir la ville de l'amour dans un appartement de goÃ»t. Vous pourrez profiter de tous les commerces seulement Ã  quelques minutes de l'appartement. Sa proximitÃ© avec la gare Montparnasse en fait Ã©galement un choix idÃ©al pour celles et ceux qui doivent prendre un train.",
+    "description": "Paris vous tend les bras ! En famille ou entre amis, venez découvrir la ville de l'amour dans un appartement de goÃ»t. Vous pourrez profiter de tous les commerces seulement Ã  quelques minutes de l'appartement. Sa proximitÃ© avec la gare Montparnasse en fait Ã©galement un choix idÃ©al pour celles et ceux qui doivent prendre un train.",
     "host": {
       "name": "Adrien Chiran",
       "picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-6.jpg"
@@ -232,7 +227,7 @@
     "equipments": [
       "Climatisation",
       "Machine Ã  laver",
-      "SÃ¨che Cheveux",
+      "Sêche Cheveux",
       "Wi-fi",
       "Parking"
     ],
@@ -258,8 +253,8 @@
     "equipments": [
       "Vue Parc",
       "Chauffage",
-      "SÃ¨che linge",
-      "SÃ¨che Cheveux",
+      "Sêche linge",
+      "Sêche Cheveux",
       "Wi-fi",
       "Ascenseur"
     ],
@@ -275,7 +270,7 @@
       "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-10-3.jpg",
       "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-10-4.jpg"
     ],
-    "description": "SituÃ© en plein coeur du Marais, notre studio est idÃ©al pour les touristes en quÃªte de dÃ©couverte. Sa cuisine toute Ã©quipÃ©e est particuliÃ¨rement pratique.",
+    "description": "Situé en plein coeur du Marais, notre studio est idél pour les touristes en quête de dÃ©couverte. Sa cuisine toute Ã©quipÃ©e est particuliÃ¨rement pratique.",
     "host": {
       "name": "Victor Moran",
       "picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-7.jpg"
@@ -305,7 +300,7 @@
     "equipments": [
       "Rangements",
       "Lit",
-      "SÃ¨che Cheveux",
+      "Sêche Cheveux",
       "Wi-fi",
       "TV",
       "Bouilloire"
@@ -333,7 +328,7 @@
     "equipments": [
       "SDB",
       "Cuisine Ã©quipÃ©e",
-      "Toilettes sÃ¨ches",
+      "Toilettes sêches",
       "Frigo",
       "Bouilloire"
     ],
@@ -363,15 +358,15 @@
       "Frigo",
       "Bouilloire",
       "WIFI",
-      "TÃ©lÃ©vision",
+      "Télévision",
       "Cintres",
-      "Ã‰quipements de base"
+      "Equipements de base"
     ],
-    "tags": ["ForÃªt", "Nature", "Grande maison"]
+    "tags": ["Forêt", "Nature", "Grande maison"]
   },
   {
     "id": "ba55a0cc",
-    "title": "Maison T5 - Le VÃ©sinet",
+    "title": "Maison T5 - Le Vasinet",
     "cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-14-1.jpg",
     "pictures": [
       "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-14-1.jpg",
@@ -390,7 +385,7 @@
     "equipments": [
       "Bouilloire",
       "SDB",
-      "Cuisine Ã©quipÃ©e",
+      "Cuisine équipée",
       "Frigo",
       "WIFI",
       "TV",
@@ -403,7 +398,7 @@
   },
   {
     "id": "1e181317",
-    "title": "Loft de Luxe Ã  la DÃ©fense",
+    "title": "Loft de Luxe Ã  la Defense",
     "cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-15-1.jpg",
     "pictures": [
       "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-15-1.jpg",
@@ -418,17 +413,17 @@
       "picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-10.jpg"
     },
     "rating": "3",
-    "location": "Ile de France - La DÃ©fense",
+    "location": "Ile de France - La Defense",
     "equipments": [
-      "Baie vitrÃ©e",
-      "TÃ©lÃ©vision",
+      "Baie vitrée",
+      "Télévision",
       "Four",
       "Frigo",
       "Wi-fi",
       "Micro-Ondes",
       "Parking"
     ],
-    "tags": ["La DÃ©fense", "Loft", "Luxe"]
+    "tags": ["La Défense", "Loft", "Luxe"]
   },
   {
     "id": "1e180563",
@@ -449,7 +444,7 @@
     "rating": "4",
     "location": "Ile de France - Levallois",
     "equipments": [
-      "TÃ©lÃ©vision",
+      "Télévision",
       "Four",
       "Frigo",
       "Hotte",
@@ -473,7 +468,7 @@
     "rating": "2",
     "location": "Ile de France - Paris 20e",
     "equipments": ["Bouilloire", "Wi-fi", "Micro-Ondes"],
-    "tags": ["Vue Parc", "MÃ©tros"]
+    "tags": ["Vue Parc", "Mâtros"]
   },
   {
     "id": "6ff132c6",
@@ -492,7 +487,7 @@
     "rating": "4",
     "location": "Ile de France - Paris 13e",
     "equipments": [
-      "Ã‰quipements de base",
+      "Equipements de base",
       "Four",
       "Frigo",
       "Wi-fi",
@@ -516,7 +511,7 @@
     "location": "Ile de France - Paris 13e",
     "equipments": [
       "Wi-fi",
-      "Ã‰quipements de base",
+      "Equipements de base",
       "Micro-Ondes",
       "Frigo",
       "Baignoire"

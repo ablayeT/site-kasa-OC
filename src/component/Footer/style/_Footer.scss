@@ -3,7 +3,7 @@
 
 .footer-container {
   @include flex-center;
-  width: 100%;
+  width: auto;
   height: 209px;
   margin-top: 5%;
   background-color: $footer-color;
